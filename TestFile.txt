@@ -1,1 +1,2 @@
-This is test file git tutorial
+This is test file git tutorial.
+Adding new line to update the file.
